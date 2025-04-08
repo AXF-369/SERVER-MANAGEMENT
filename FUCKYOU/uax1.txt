@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629337;FBDM/{density=1.325,width=1280,height=736};FBLC/en_GB;FBRV/210796532;FBCR/T-Mobile;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo TB-X304L;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629374;FBDM/{density=3.825,width=1440,height=2696};FBLC/en_US;FBRV/0;FBCR/Grameenphone;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/H9436;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
