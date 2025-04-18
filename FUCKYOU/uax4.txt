@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/417.0.0.33.65;FBPN/com.facebook.katana;FBLC/en_US;FBBV/442410873;FBCR/Spectrum Mobile;FBMF/Lava;FBBD/lava;FBDV/A11;FBSV/12.7.2;FBCA/arm64-v8a:null;FBDM/{density=1.8,width=1221,height=2124};FB_FW/1;] FBBK/1
+[FBAN/FB4A;FBAV/40.0.0.3443;FBBV/3948262;[FBAN/EMA;FBAV/112.0.0.44.113;FBPN/com.facebook.lite;FBLC/ml_IN;FBBV/468920969;FBCR/Jazz Infinity;FBMF/INFINIX;FBBD/Infinix;FBDV/Infinix S5 Pro;FBSV/11.5.7;FBCA/arm64-v8a:null;;FBDM/{density=2.3,width=921,height=1646};FB_FW/1;] FBBK/1
