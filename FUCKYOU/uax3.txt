@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/163.0.0.43.91;FBBV/96845992;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Grameephone;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A500H;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
