@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/266.0.0.64.124;FBBV/209629374;FBDM/{density=4.0,width=1440,height=2768};FBLC/en_US;FBRV/210796532;FBCR/Republic;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G960U1;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/264.0.0.44.111;FBBV/206636710;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/0;FBCR/Idea - Be Safe;FBMF/GIONEE;FBBD/GIONEE;FBPN/com.facebook.katana;FBDV/GIONEE F205 Pro;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
